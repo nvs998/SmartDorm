@@ -1,0 +1,17 @@
+{
+  "name": "coursework",
+  "version": "1.0.0",
+  "description": "Your name: Your student ID:",
+  "main": "basic_contract_tests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.23.0",
+    "hardhat-gas-reporter": "^2.2.3"
+  }
+}
